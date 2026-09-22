@@ -1,9 +1,8 @@
 ## Nemure
 
 - 🔭 Highlights
-     - Download Lord of mysteries AI RPG game -> https://lotm-site.vercel.app
-     - Demo Lord of mysteries AI RPG game -> https://lotmdnd.work.gd
-     - A betting calculator -> https://betcalc.work.gd
+     - Lord of mysteries AI RPG game -> https://lotm-site.vercel.app
+     - A betting calculator -> https://bettingui.vercel.app/
      - Yinke law (alt site) -> https://yinke-next.vercel.app
      - Personal website -> https://themagiche.vercel.app
 
