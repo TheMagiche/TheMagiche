@@ -6,4 +6,4 @@
      - Yinke law (alt site) -> https://yinke-next.vercel.app
      - Personal website -> https://themagiche.vercel.app
      - Fuzzy wasm -> https://themagiche.github.io/fuzzy-wasm 
-     - Csv-parser wasm -> https://themagiche.github.io/wasm-csv-parse
+     - Csv-parser wasm -> https://themagiche.github.io/wasm-csv-parser
