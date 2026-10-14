@@ -6,7 +6,6 @@
       <img src="gherman_sparrow/gherman.svg" height="340" alt="Gehrman Sparrow" />
     </td>
     <td valign="top">
-      <h3>🔭 Highlights</h3>
       <table>
         <thead>
           <tr>
@@ -46,6 +45,10 @@
           <tr>
             <td>🐹 <b>Learn GO Basics</b></td>
             <td><a href="https://themagiche.github.io/learn-go">themagiche.github.io/learn-go</a></td>
+          </tr>
+          <tr>
+            <td>🐹 <b>Learn Rust Basics</b></td>
+            <td><a href="https://themagiche.github.io/learn-rust-ledger">themagiche.github.io/learn-rust-ledger</a></td>
           </tr>
         </tbody>
       </table>
