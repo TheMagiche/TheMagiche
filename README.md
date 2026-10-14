@@ -7,5 +7,5 @@
      - Personal website -> https://themagiche.vercel.app
      - Fuzzy wasm -> https://themagiche.github.io/fuzzy-wasm 
      - Csv-parser wasm -> https://themagiche.github.io/wasm-csv-parser
-     - SQL-formatter wasm -> themagiche.github.io/sql-formatter-wasm
+     - SQL-formatter wasm -> https://themagiche.github.io/sql-formatter-wasm
      - Learn GO basics -> https://themagiche.github.io/learn-go
