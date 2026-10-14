@@ -1,23 +1,54 @@
 ## Nemure
 
-<p align="center">
-  <img src="gherman_sparrow/gherman.svg" height="160" alt="Gehrman Sparrow" />
-  <img src="gherman_sparrow/click1.gif" height="160" alt="Click" />
-  <img src="gherman_sparrow/idle1.gif" height="160" alt="Idle 1" />
-  <img src="gherman_sparrow/idle2.gif" height="160" alt="Idle 2" />
-  <img src="gherman_sparrow/yawn.gif" height="160" alt="Yawn" />
-  <img src="gherman_sparrow/sleep_in.gif" height="160" alt="Sleep In" />
-  <img src="gherman_sparrow/sleep.png" height="160" alt="Sleep" />
-  <img src="gherman_sparrow/sleep_out.gif" height="160" alt="Sleep Out" />
-</p>
-
-### 🔭 Highlights
-
-- [Lord of mysteries AI RPG game](https://lotm-site.vercel.app)
-- [A betting calculator](https://bettingui.vercel.app)
-- [Yinke law (alt site)](https://yinke-next.vercel.app)
-- [Personal website](https://themagiche.vercel.app)
-- [Fuzzy wasm](https://themagiche.github.io/fuzzy-wasm)
-- [Csv-parser wasm](https://themagiche.github.io/wasm-csv-parser)
-- [SQL-formatter wasm](https://themagiche.github.io/sql-formatter-wasm)
-- [Learn GO basics](https://themagiche.github.io/learn-go)
+<table>
+  <tr>
+    <td width="240" align="center" valign="top">
+      <img src="gherman_sparrow/gherman.svg" height="340" alt="Gehrman Sparrow" />
+    </td>
+    <td valign="top">
+      <h3>🔭 Highlights</h3>
+      <table>
+        <thead>
+          <tr>
+            <th align="left">Project</th>
+            <th align="left">Link / Demo</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>⚔️ <b>Lord of Mysteries AI RPG</b></td>
+            <td><a href="https://lotm-site.vercel.app">lotm-site.vercel.app</a></td>
+          </tr>
+          <tr>
+            <td>🎲 <b>Betting Calculator</b></td>
+            <td><a href="https://bettingui.vercel.app">bettingui.vercel.app</a></td>
+          </tr>
+          <tr>
+            <td>⚖️ <b>Yinke Law (Alt Site)</b></td>
+            <td><a href="https://yinke-next.vercel.app">yinke-next.vercel.app</a></td>
+          </tr>
+          <tr>
+            <td>🌐 <b>Personal Website</b></td>
+            <td><a href="https://themagiche.vercel.app">themagiche.vercel.app</a></td>
+          </tr>
+          <tr>
+            <td>⚡ <b>Fuzzy WASM</b></td>
+            <td><a href="https://themagiche.github.io/fuzzy-wasm">themagiche.github.io/fuzzy-wasm</a></td>
+          </tr>
+          <tr>
+            <td>📊 <b>CSV Parser WASM</b></td>
+            <td><a href="https://themagiche.github.io/wasm-csv-parser">themagiche.github.io/wasm-csv-parser</a></td>
+          </tr>
+          <tr>
+            <td>🗄️ <b>SQL Formatter WASM</b></td>
+            <td><a href="https://themagiche.github.io/sql-formatter-wasm">themagiche.github.io/sql-formatter-wasm</a></td>
+          </tr>
+          <tr>
+            <td>🐹 <b>Learn GO Basics</b></td>
+            <td><a href="https://themagiche.github.io/learn-go">themagiche.github.io/learn-go</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
