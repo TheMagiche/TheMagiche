@@ -1,9 +1,14 @@
 ## Nemure
 
 <p align="center">
-  <img src="gherman_sparrow/gherman.svg" width="180" alt="Gehrman Sparrow" />
-  <br>
-  <sub><b>Gehrman Sparrow</b></sub>
+  <img src="gherman_sparrow/gherman.svg" height="160" alt="Gehrman Sparrow" />
+  <img src="gherman_sparrow/click1.gif" height="160" alt="Click" />
+  <img src="gherman_sparrow/idle1.gif" height="160" alt="Idle 1" />
+  <img src="gherman_sparrow/idle2.gif" height="160" alt="Idle 2" />
+  <img src="gherman_sparrow/yawn.gif" height="160" alt="Yawn" />
+  <img src="gherman_sparrow/sleep_in.gif" height="160" alt="Sleep In" />
+  <img src="gherman_sparrow/sleep.png" height="160" alt="Sleep" />
+  <img src="gherman_sparrow/sleep_out.gif" height="160" alt="Sleep Out" />
 </p>
 
 ### 🔭 Highlights
@@ -16,52 +21,3 @@
 - [Csv-parser wasm](https://themagiche.github.io/wasm-csv-parser)
 - [SQL-formatter wasm](https://themagiche.github.io/sql-formatter-wasm)
 - [Learn GO basics](https://themagiche.github.io/learn-go)
-
----
-
-### 🎭 Interactive Gehrman Sparrow
-
-*Click any action below to interact with Gehrman directly:*
-
-<details>
-  <summary>👉 <b>Poke / Click</b></summary>
-  <br>
-  <p align="center">
-    <img src="gherman_sparrow/click1.gif" width="180" alt="Poke reaction" />
-    <br>
-    <sub><i>"The fool that doesn't belong to this era..."</i></sub>
-  </p>
-</details>
-
-<details>
-  <summary>🎩 <b>Idle Stance</b></summary>
-  <br>
-  <p align="center">
-    <img src="gherman_sparrow/idle1.gif" width="180" alt="Idle stance 1" />
-    <img src="gherman_sparrow/idle2.gif" width="180" alt="Idle stance 2" />
-    <br>
-    <sub><i>Adjusting spectacles while observing Backlund's fog...</i></sub>
-  </p>
-</details>
-
-<details>
-  <summary>🥱 <b>Take a Break (Yawn)</b></summary>
-  <br>
-  <p align="center">
-    <img src="gherman_sparrow/yawn.gif" width="180" alt="Yawning" />
-    <br>
-    <sub><i>*yawns* Even above the gray fog, one grows weary...</i></sub>
-  </p>
-</details>
-
-<details>
-  <summary>🌙 <b>Rest (Sleep Mode)</b></summary>
-  <br>
-  <p align="center">
-    <img src="gherman_sparrow/sleep_in.gif" width="180" alt="Falling asleep" />
-    <img src="gherman_sparrow/sleep.png" width="180" alt="Sleeping" />
-    <img src="gherman_sparrow/sleep_out.gif" width="180" alt="Waking up" />
-    <br>
-    <sub><i>Resting deep above the gray fog.</i></sub>
-  </p>
-</details>
