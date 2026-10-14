@@ -1,0 +1,33 @@
+{
+  "name": "gherman_sparrow",
+  "max_width": 180,
+  "max_height": 400,
+  "eyes": {
+    "travel_radius": 2,
+    "left": {
+      "x": 83,
+      "y": 101
+    },
+    "right": {
+      "x": 123,
+      "y": 101
+    }
+  },
+  "blink": {
+    "enabled": true,
+    "every": [
+      6,
+      12
+    ],
+    "duration": 0.18
+  },
+  "click_squint": 0.3,
+  "idle": {
+    "yawn_after": 90,
+    "sleep_after": 240,
+    "random_every": [
+      40,
+      90
+    ]
+  }
+}
