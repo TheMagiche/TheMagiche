@@ -27,8 +27,8 @@
             <td><a href="https://yinke-next.vercel.app">yinke-next.vercel.app</a></td>
           </tr>
           <tr>
-            <td>🌐 <b>Personal Website</b></td>
-            <td><a href="https://themagiche.vercel.app">themagiche.vercel.app</a></td>
+            <td>🌐 <b>HushChat</b></td>
+            <td><a href="https://themagiche.github.io/hushchat/">themagiche.github.io/hushchat</a></td>
           </tr>
           <tr>
             <td>⚡ <b>Fuzzy WASM</b></td>
